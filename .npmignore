@@ -1,5 +1,1 @@
 node_modules
-.prettierrc
-commands/*
-utils/*
-yarn.lock
