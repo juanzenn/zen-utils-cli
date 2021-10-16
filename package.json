@@ -1,0 +1,19 @@
+{
+  "name": "zen-utils",
+  "version": "1.0.1",
+  "description": "A CLI tool for managing files and React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Juan Alvarez",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "conf": "^10.0.3"
+  },
+  "bin": {
+    "zen": "index.js"
+  }
+}
