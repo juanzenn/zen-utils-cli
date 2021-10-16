@@ -7,7 +7,7 @@ Zen is a CLI tool built with node.js for simple task.
 Install Zen on your local system:
 
 ```console
-npm i -g @juanzenn/zen-cli
+npm i -g @juanzenn/zen-utils
 ```
 
 ## Usage
