@@ -6,7 +6,9 @@ Zen is a CLI tool built with node.js for simple task.
 
 Install Zen on your local system:
 
-`npm i -g zen-cli`
+```console
+npm i -g @juanzenn/zen-cli
+```
 
 ## Usage
 
@@ -18,4 +20,6 @@ Install Zen on your local system:
 
 Delete all your empty files with just one command! Only follow the instructions.
 
-`zen delete-empty-files`
+```console
+zen delete-empty-files
+```
