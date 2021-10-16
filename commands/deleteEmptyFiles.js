@@ -5,9 +5,7 @@ const log = require("../utils/log")
 const readline = require("readline")
 
 function deleteFiles() {
-  exec(
-    `find -type f -empty -not -path "./exclude/*" -not -path "./node_modules" -delete`
-  )
+  exec(`find -type f -empty -not -path "./node_modules" -delete`)
 }
 
 function lookForEmptyFiles() {
