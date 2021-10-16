@@ -1,6 +1,6 @@
 {
   "name": "@juanzenn/zen-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI tool for managing files and React projects",
   "main": "index.js",
   "scripts": {
